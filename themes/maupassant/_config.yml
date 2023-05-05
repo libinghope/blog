@@ -127,13 +127,13 @@ info:
   discription: To be a better man.
   outlinkitem:
     - name: twitter
-      outlink: https://twitter.com/username
+      outlink: https://twitter.com/libingjy
       message: Twitter
     - name: envelope
-      outlink: mailto:admin@domain.com
+      outlink: libingjy@gmail.com
       message: Email
     - name: github
-      outlink: https://github.com/username
+      outlink: https://github.com/libinghope
       message: Github
     - name: rss
       outlink: /atom.xml
