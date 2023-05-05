@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://jkhegqp.top/
+url: http://libing2020.gitee.io/
 root: /
 permalink: :title/
 permalink_defaults: 
@@ -80,7 +80,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## Use post's date for updated date unless set in front-matter
-updated_option: true
+use_date_for_updated: true
 
 # Pagination
 ## Set per_page to 0 to disable pagination
